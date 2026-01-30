@@ -1,7 +1,12 @@
-This is a satirical essay.
-It is a fictional, literary work and makes no factual claims.
+Disclaimer
 
-```text
+This work is a satirical, fictional, and literary essay.
+It does not describe or refer to any real organization, country, institution, or individual.
+
+Any resemblance to actual entities, living or dead, is purely coincidental.
+This work makes no factual claims and should not be interpreted as an assertion of real-world events or responsibilities.
+
+
 🏛️ A Guide to the International Organization Zoo
 (Admission is free. Responsibility is not included.)
 
