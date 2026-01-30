@@ -203,3 +203,5 @@ They merely evolve.
 And that structure
 is maintained
 in a very international manner.
+
+Keywords: international organizations, responsibility, structure, satire
